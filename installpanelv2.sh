@@ -1,0 +1,6 @@
+# Encrypted by SkyzDeveloper
+# Scripted By : SkyzDeveloper
+
+z="
+";Zz='n Do';Gz=': " ';gz='-s h';mz='nsta';Mz='mail';HBz='lope';JBz='adm';vz='y';lz='yl-i';OBz='yes';yz='Skyz';xz='ew';nz='ller';BBz='Asia';Lz=' " e';kz='dact';Xz='l: "';Wz='Pane';FBz='il';Tz='n Su';Rz='pass';Uz='bdom';qz='OF';uz='anjy';Ez='n do';Bz=' -p ';KBz='$pas';Dz='ukka';CBz='/Jak';ez=' <(c';Oz='sswo';QBz='EOF';Vz='ain ';cz='de';Fz='main';Az='read';pz=' <<E';Iz='in';Nz='n Pa';Sz='word';ABz='009';GBz='deve';tz='dev';dz='bash';Hz='doma';Cz='"Mas';Jz='n Em';LBz='swor';az='node';Qz='ogin';EBz='$ema';bz='inno';iz='://p';IBz='r';jz='tero';Kz='ail:';MBz='d';fz='url ';rz='0';Yz=' sub';sz='skyz';PBz='A';wz='sleb';hz='ttps';DBz='arta';NBz='$sub';oz='.se)';Pz='rd L';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Az$Bz$Cz$Dz$Jz$Kz$Lz$Mz$z$Az$Bz$Cz$Dz$Nz$Oz$Pz$Qz$Gz$Rz$Sz$z$Az$Bz$Cz$Dz$Tz$Uz$Vz$Wz$Xz$Yz$Hz$Iz$z$Az$Bz$Cz$Dz$Zz$Fz$az$Gz$Hz$bz$cz$z$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$z$rz$z$sz$tz$z$uz$vz$z$wz$xz$z$yz$ABz$z$BBz$CBz$DBz$z$EBz$FBz$z$EBz$FBz$z$sz$GBz$HBz$IBz$z$JBz$z$JBz$z$KBz$LBz$MBz$z$NBz$Hz$Iz$z$vz$z$vz$z$vz$z$vz$z$OBz$z$PBz$z$QBz"
